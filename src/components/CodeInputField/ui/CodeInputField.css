@@ -1,0 +1,14 @@
+.codeInputFieldContainer {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  max-height: 56px;
+  margin: 10px;
+}
+
+.codeInputField {
+  width: 26px;
+  height: 40px;
+  padding: 0;
+  text-align: center;
+}
